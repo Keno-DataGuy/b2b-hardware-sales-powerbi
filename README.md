@@ -64,4 +64,6 @@ The company logged **8 800+ opportunities** in five CSV files. After cleaning an
 ## Recommended Actions
 Replicate West’s playbook across regions, coach high-loss agents, re-evaluate under-performing products, and enforce stage-gate SLAs to move stalled deals.
 
+---
 
+© Dataset by [Maven Analytics](https://www.mavenanalytics.io/)
