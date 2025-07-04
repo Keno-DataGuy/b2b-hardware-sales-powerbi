@@ -55,7 +55,7 @@ The company logged **8 800+ opportunities** in five CSV files. After cleaning an
 
 ## Key Findings
 * **Win rate** averages **63 %**, sliding from 82 % in Q1 to 60 % in Q4.  
-* **West office** leads with **US $3.6 bn won** at **64 %** win rate.  
+* **West office** leads with **US $3.6 Trillion won** at **64 %** win rate.  
 * Five agents account for **> 40 % of total losses**.  
 * **23 % of deals** sit idle in Prospecting or Engaging stages.
 
