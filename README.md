@@ -12,7 +12,7 @@ A one-page **Power BI** report that tells the 2017 sales-pipeline story for a fi
 3. [Data Prep & Model](#data-prep--model)  
 4. [Report Layout](#report-layout)  
 5. [Key Findings](#key-findings)  
-6. [Next Actions](#next-actions)  
+6. [Recommended Actions](#recommended-actions)  
 
 ---
 
